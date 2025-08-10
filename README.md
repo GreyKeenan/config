@@ -24,12 +24,13 @@ checklist
 * git
 * github-cli
 * tree
+* man
 
 
 ### tasks
 
 * create my main directories
-  * `~/r`, `~/s`, `~/t`
+  * `~/r`, `~/s`, `~/t`, `~/p`
 * configure the text editor
   * in `~/.bashrc`: `export EDITOR=$(program)`
   * <https://github.com/greykeenan/config_vim>
